@@ -1,5 +1,5 @@
 Hi, I'm Dullstar!
-Languages: C++, D, Python
+Languages: C++, D, Python, C, Rust
 
 <!---
 Copy pasting the template:
